@@ -1,4 +1,3 @@
-import os
 from .settings import*
 DEBUG = True
 #Crie secret key para seu ambiente de desenvolvimento
